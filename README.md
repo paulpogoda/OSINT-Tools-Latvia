@@ -40,6 +40,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Vehicles
 ### land
 - [Vehicles registered in Latvia](https://www.csdd.lv/en/vehicles-registered-in-latvia/free-information-e-csdd). Free and paid services, authorization required
+- [Rail Baltica Interactive Map](https://info.railbaltica.org/en/interactive-map)
 
 ### Maritime
 - [Maritime Administration of Latvia](https://www.lja.lv/en)
