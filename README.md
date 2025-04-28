@@ -18,6 +18,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Latvia's Open Data portal](https://data.gov.lv/eng)
 - [Latvia's Statistics portal](https://stat.gov.lv/en)
 - [Latvijas Vēstnesis | State Gazette](https://lv.lv/en/)
+- [National Archives](https://www.arhivi.gov.lv/en). Some specialised datasets, such as the collection of KGB documents, or records of Soviet mass deportations
 
 ### Stock
 - [Nasdaq Baltic](https://www.nasdaqbaltic.com)
@@ -26,14 +27,17 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Supreme Court](https://www.at.gov.lv/en)
 - [SC Archive of case-law decisions](https://www.at.gov.lv/en/tiesu-prakse/judikaturas-nolemumu-arhivs)
 - [Criminal Records Check](https://www2.mfa.gov.lv/en/london/consular-information/request-for-criminal-records-check). By request. Regulated by GDPR
+- [E-lieta.lv](https://www.elieta.lv/web/). Courts’ administration platform that provides access to case materials, rulings, progress reports, and court calendars
 
 ## Legal Entities
 - [Latvian Business Register](https://www.ur.gov.lv/en/get-information/)
 - [European Business Register](https://ebr.lv/en/company-search)
+- [Civil Servants Declarations Database](https://www.vid.gov.lv/lv/iesniegto-deklaraciju-datubaze)
+- [Revenue Service’s Database](https://www.vid.gov.lv/lv/vid-publiskojamo-datu-baze)
 - [Lursoft](https://www.lursoft.lv/en/data-bases-of-companies). Data for Latvia, Lithuania, and Estonia. Paid, from  EUR 9.90
 
 ## Maps
-- [Cadastral and other maps](https://www.lvmgeo.lv/en/maps)
+- [LVMGEO | Cadastral and other maps](https://www.lvmgeo.lv/en/maps)
 - [Latvian Land Register](https://www.zemesgramata.lv). Read [about](https://www.elra.eu/contact-point-contribution/latvia/how-to-get-the-information-14/) in English
 
 ## Vehicles
