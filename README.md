@@ -27,7 +27,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [SC Archive of case-law decisions](https://www.at.gov.lv/en/tiesu-prakse/judikaturas-nolemumu-arhivs)
 - [Criminal Records Check](https://www2.mfa.gov.lv/en/london/consular-information/request-for-criminal-records-check). By request. Regulated by GDPR
 
-
 ## Legal Entities
 - [Latvian Business Register](https://www.ur.gov.lv/en/get-information/)
 - [European Business Register](https://ebr.lv/en/company-search)
